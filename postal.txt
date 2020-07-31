@@ -1,0 +1,8 @@
+Current_Bill:80
+Food:31300
+House_Rent:2300
+Insurance:3200
+Laptop:300
+Monthly_Salary:200000
+School_Fee:3200
+surfacepen:7200

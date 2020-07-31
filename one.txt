@@ -1,0 +1,6 @@
+Current_Bill:500
+Food:100
+House_Rent:300
+Insurance:300
+Monthly_Salary:4500
+School_Fee:200

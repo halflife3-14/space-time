@@ -1,0 +1,6 @@
+Current_Bill:21
+Food:213
+House_Rent:231
+Insurance:123
+Monthly_Salary:121
+School_Fee:123
